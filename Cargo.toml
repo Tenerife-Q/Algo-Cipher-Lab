@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "rust_crypto/crates/*",
+]
+resolver = "2"
